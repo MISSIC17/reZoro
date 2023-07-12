@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "reZoro",
+  "version": "1.0",
+  "description": "Undo the rebranding of zoro.to TO aniwatch.to",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://aniwatch.to/*", "https://zoro.to/*"],
+      "all_frames": true,
+      "css": ["reZoro.css"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "browser_style": true,
+    "default_icon": {
+      "48": "icons/icon.png"
+    },
+    "default_title": "Your Browser Assistant",
+    "default_popup": "/index.html"
+  },
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "host_permissions": ["https://aniwatch.to/*", "https://zoro.to/*"],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "addon@reZoro.com",
+      "strict_min_version": "42.0"
+    }
+  }
+}

@@ -1,0 +1,403 @@
+:root {
+  --primaryZoro: #cae862;
+}
+/*icons*/
+.zicon {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(91%) saturate(1339%)
+    hue-rotate(23deg) brightness(114%) contrast(82%);
+}
+.ss-list .ssl-item.active .ssli-btn .btn.btn-circle {
+  background-color: var(--primaryZoro) !important;
+}
+a#logo img {
+  display: none;
+}
+#mw-top .mwt-content .mwt-icon img {
+  display: none;
+}
+.pre-tabs .nav-item .nav-link.active {
+  color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+/* buttons */
+.toggle-lang > span.en {
+  background-color: var(--primaryZoro) !important;
+  color: black !important;
+}
+.toggle-lang > span.jp {
+  background-color: #4d5059 !important;
+  color: black !important;
+}
+.toggle-lang.off > span.en {
+  background-color: #4d5059 !important;
+  color: black !important;
+}
+.toggle-lang.off > span.jp {
+  background-color: var(--primaryZoro) !important;
+  color: black !important;
+}
+#slider
+  > div.swiper-wrapper
+  > div
+  > div
+  > div.deslide-item-content
+  > div.desi-buttons
+  > a.btn.btn-primary.btn-radius.mr-2 {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.dt-comment i {
+  color: var(--primaryZoro) !important;
+}
+#ani_detail
+  > div
+  > div
+  > div.anis-content
+  > div.anisc-detail
+  > div.film-buttons
+  > a {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.toggle-basic .tb-result {
+  color: var(--primaryZoro) !important;
+}
+#slider
+  > div.swiper-wrapper
+  > div:nth-child(0)
+  > div
+  > div.deslide-item-content
+  > div.desi-buttons
+  > a.btn.btn-primary.btn-radius.mr-2 {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+div.desi-buttons > .btn-focus,
+.btn-primary,
+.btn-tab.active {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.btn-primary:hover {
+  color: black !important;
+}
+.btn-light:hover {
+  color: black !important;
+}
+a:hover {
+  color: var(--primaryZoro) !important;
+}
+a[data-target="#modallogin"] {
+  background: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+  transition: 250ms ease-in;
+}
+a[data-target="#modallogin"]:hover {
+  color: var(--primaryZoro) !important;
+  background: black !important;
+  border-color: var(--primaryZoro) !important;
+}
+.form-group > button.btn-focus:hover {
+  background: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.rep-more .btn {
+  color: var(--primaryZoro) !important;
+}
+.user-name .link-highlight {
+  color: var(--primaryZoro) !important;
+  background: none !important;
+}
+.premodal .modal-content .close:hover {
+  background: var(--primaryZoro) !important;
+}
+#search > .search-content .search-result-pop .nav-bottom {
+  background: var(--primaryZoro) !important;
+}
+#search > .search-content .search-result-pop .nav-bottom:hover {
+  color: black !important;
+}
+.anif-block-ul li .film-fav.active,
+.anif-block-ul li .film-fav:hover {
+  color: var(--primaryZoro) !important;
+}
+span.quality {
+  background-color: var(--primaryZoro) !important;
+}
+div[aria-label="Previous slide"]:hover,
+div[aria-label="Next slide"]:hover {
+  background-color: var(--primaryZoro) !important;
+}
+.navi-next:hover,
+.trending-navi > div[aria-label="Next slide"]:hover,
+.trending-navi > div[aria-label="Previous slide"]:hover {
+  background-color: var(--primaryZoro) !important;
+}
+.table_schedule .table_schedule-date .tsd-item.active {
+  background-color: var(--primaryZoro) !important;
+}
+.table_schedule .table_schedule-list li:hover .time {
+  color: var(--primaryZoro) !important;
+}
+.table_schedule .table_schedule-list li:hover .film-detail .fd-play .btn-play {
+  background: var(--primaryZoro) !important;
+  color: #111 !important;
+}
+/* player */
+.ps__-list .item .btn.active {
+  background: var(--primaryZoro) !important;
+  color: #111 !important;
+}
+#slider
+  > div.swiper-wrapper
+  > div:nth-child(3)
+  > div
+  > div.deslide-item-content
+  > div.desi-sub-text {
+  color: var(--primaryZoro) !important;
+}
+#anime-trending > div > section > div.block_area-header > div.bah-heading > h2 {
+  color: var(--primaryZoro) !important;
+}
+.trending-list .item .number span {
+  color: var(--primaryZoro) !important;
+}
+#mobile_menu.active i,
+#mobile_search.active i {
+  color: var(--primaryZoro) !important;
+}
+#login-form
+  > div.form-check.custom-control.custom-checkbox
+  > div.float-right
+  > a {
+  color: var(--primaryZoro) !important;
+}
+#btn-login {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+#modal-tab-login
+  > div.modal-footer.text-center
+  > a.link-highlight.register-tab-link {
+  color: var(--primaryZoro) !important;
+}
+#modal-tab-login
+  > div.modal-footer.text-center
+  > a.link-highlight.verify-tab-link {
+  color: var(--primaryZoro) !important;
+}
+.hr-community .btn i {
+  color: var(--primaryZoro) !important;
+}
+.nli-select .custom-select {
+  color: var(--primaryZoro) !important;
+}
+#filter-form > div.cfc-button.mt-4 > button {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.btn-sm.btn-filter-item.active {
+  border-color: var(--primaryZoro) !important;
+  background: #3d3e39 !important;
+  color: var(--primaryZoro) !important;
+}
+.block_area .block_area-header .cat-heading {
+  color: var(--primaryZoro) !important;
+}
+.btn-sm.btn-filter-item:hover,
+.btn-sm.nl-item-btn:hover {
+  color: var(--primaryZoro) !important;
+}
+#sendMessage {
+  background-color: var(--primaryZoro) !important;
+}
+#xsearch.home-search .search-content .search-submit {
+  background-color: var(--primaryZoro) !important;
+}
+#action-button {
+  background-color: var(--primaryZoro) !important;
+}
+.hs-toggles .hst-item .hst-icon i {
+  color: var(--primaryZoro) !important;
+}
+.deslide-item .desi-sub-text {
+  color: var(--primaryZoro) !important;
+}
+#slider
+  > div.swiper-wrapper
+  > div.swiper-slide.swiper-slide-active
+  > div
+  > div.deslide-item-content
+  > div.desi-buttons
+  > a.btn.btn-primary.btn-radius.mr-2 {
+  background-color: var(--primaryZoro) !important;
+  border-color: var(--primaryZoro) !important;
+}
+.share-buttons .share-buttons-block .sbb-title span {
+  color: var(--primaryZoro) !important;
+}
+.cw_l-line .ibody p a.tag-name {
+  color: var(--primaryZoro) !important;
+}
+
+.anw-tabs .nav-item .nav-link.active {
+  background-color: var(--primaryZoro) !important;
+}
+.anw-tabs .nav-item .nav-link.active:hover {
+  color: black !important;
+}
+.cbox.cbox-list .anif-block-chart li.item-top .film-number span {
+  border-bottom-color: var(--primaryZoro) !important;
+}
+#wrapper > #discussion > div > div > div.d_w-list > ul > li > a.active {
+  border-color: var(--primaryZoro) !important;
+  color: black !important;
+  background-color: var(--primaryZoro) !important;
+}
+#wrapper > #discussion > div > div > div.d_w-list > ul > li > a {
+  color: white !important;
+}
+.pre-pagination .pagination .page-item.active .page-link {
+  background-color: var(--primaryZoro) !important;
+  color: black !important;
+}
+.pre-pagination .pagination .page-item.active .page-link:hover {
+  background-color: var(--primaryZoro) !important;
+  color: black !important;
+}
+.anif-block .anif-block-header {
+  color: var(--primaryZoro) !important;
+}
+.os-list .os-item.active .title {
+  color: var(--primaryZoro) !important;
+}
+
+.dwl-ul .dwl-item .on-chapt a {
+  color: var(--primaryZoro) !important;
+}
+.pre-tabs .nav-item .nav-link:hover {
+  color: var(--primaryZoro) !important;
+}
+.toggle-onoff > span {
+  background: var(--primaryZoro) !important;
+}
+.os-list .os-item.active {
+  border-color: var(--primaryZoro) !important;
+}
+/* players */
+.player-servers .ps_-status {
+  background: var(--primaryZoro) !important;
+}
+.player-servers .ps_-block .ps__-title i {
+  color: var(--primaryZoro) !important;
+}
+.server-item > a.active {
+  background: var(--primaryZoro) !important;
+}
+.detail-infor-content > .ss-list .ssl-item.active .ssli-detail .ep-name,
+.ss-list .ssl-item:hover .ssli-detail .ep-name {
+  color: var(--primaryZoro) !important;
+}
+.detail-infor-content > .ss-list .ssl-item.active .ssli-order {
+  color: var(--primaryZoro) !important;
+}
+.ss-list .ssl-item.active:before {
+  background-color: var(--primaryZoro) !important;
+}
+#detail-ss-list
+  > .detail-infor-content
+  > .ss-list
+  .ssl-item.active
+  .ssli-detail
+  .ep-name,
+#detail-ss-list
+  > .detail-infor-content
+  > .ss-list
+  .ssl-item:hover
+  .ssli-detail
+  .ep-name {
+  color: var(--primaryZoro) !important;
+}
+.tick-item.tick-quality {
+  background-color: var(--primaryZoro) !important;
+}
+.pre-qtip-content > .pre-qtip-detail .pqd-li.badge-quality {
+  background-color: var(--primaryZoro) !important;
+}
+.pre-qtip-button .btn.btn-play {
+  background-color: var(--primaryZoro) !important;
+}
+.pre-qtip-button .btn.btn-play:hover {
+  color: black !important;
+}
+.award-inner .ai_-tabs a.active:before {
+  background-color: var(--primaryZoro) !important;
+}
+.award-inner .ai_-tabs a.active,
+.award-inner .ai_-tabs a:hover {
+  color: white !important;
+}
+
+#top_chat .t_c-pin .is-pin .pin-text .sub .pin-name {
+  color: var(--primaryZoro) !important;
+}
+
+.t_c-chatlist .is-wrap .item > div.detail .options .btn {
+  color: var(--primaryZoro) !important;
+}
+.t_c-chatlist .is-wrap .item > div.detail .options .btn:hover {
+  color: var(--primaryZoro) !important;
+}
+.t_c-chatlist .is-wrap .item > div.detail .is-subject .reply {
+  border-left-color: rgba(215, 218, 220, 0.2) !important;
+}
+.t_c-chatlist .is-wrap .item > div.detail {
+  background-color: #1a1a1b !important;
+}
+.dropdown-menu-model .dropdown-item:active,
+.dropdown-menu-model .dropdown-item:hover {
+  color: #111 !important;
+}
+.share-buttons .share-buttons-block .sbb-title {
+  border-left-color: var(--primaryZoro) !important;
+}
+a[href="/home"] {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5em;
+  transition: 200ms ease;
+}
+a[href="/home"]:hover {
+  gap: 1em;
+}
+ul.az-list li a:hover,
+ul.az-list li.active a {
+  background: var(--primaryZoro) !important;
+}
+ul.az-list li a:hover,
+ul.az-list li.active a {
+  color: #111 !important;
+}
+.anw-group .zrg-list .item .zr-social-button:hover {
+  color: white !important;
+}
+.detail-infor-content > .ss-list.ss-list-min .ssl-item.active {
+  background: #4f553c !important;
+}
+
+.jw-slider-time .jw-intro,
+.jw-slider-time .jw-outro {
+  background-color: #008ee3 !important;
+}
+.jw-slider-time .jw-intro,
+.jw-slider-time .jw-outro {
+  background-color: blue !important;
+}
+
+.jw-controller
+  > .jw-slider-horizontal.jw-chapter-slider-time
+  .jw-slider-container
+  .jw-timesegment-progress {
+  background-color: #f2f2f2 !important;
+}
