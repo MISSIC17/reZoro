@@ -25,5 +25,9 @@
 <hr/>
 
 ## <u> For firefox browser:</u>
-#### You can use the extension as any other once it has been approved. It will be available on this link:
+#### You can add the extension from this link:
 #### https://addons.mozilla.org/firefox/addon/rezoro/
+ ```diff
+- [!IMPORTANT] 
+```
+#### Make sure to tick ```Always allow on aniwatch.to``` in the extension settings after navigating to aniwatch.to website
