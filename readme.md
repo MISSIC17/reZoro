@@ -14,7 +14,7 @@
 
  1. Click on the dropdown menu ```Code``` as shown in the above screenshot. Then, downlod it as a zip and unzip it in the folder/directory of your choice
 
- 2. Go to ```managa-extesnsions``` or type  <a href="chrome://exntesions">chrome://extensions/</a> in the search bar
+ 2. Go to ```Manage-extesnsions``` or type  <a href="chrome://exntesions">chrome://extensions/</a> in the search bar
 3. Enable ```Developer mode```
 4. Click ```Load unplacked```
 5. Select the unzipped folder and press ```Select```
