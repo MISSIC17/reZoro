@@ -21,7 +21,8 @@
 <hr/>
 
 ## <u> For edge browser:</u>
-#### Until the add-on has been approved, it is recommended to do the same as for chrome/chromium based browers
+#### You can install the extension from this link:
+#### https://microsoftedge.microsoft.com/addons/detail/rezoro/abpcnkolomhcgaihkiooindoehcbfdeo
 <hr/>
 
 ## <u> For firefox browser:</u>
