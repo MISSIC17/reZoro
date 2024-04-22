@@ -8,10 +8,18 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://aniwatch.to/*", "https://zoro.to/*"],
+      "matches": [
+        "https://aniwatch.to/*",
+        "https://aniwatchtv.to/*",
+        "https://zoro.to/*"
+      ],
       "all_frames": true,
-      "css": ["reZoro.css"],
-      "js": ["content.js"],
+      "css": [
+        "reZoro.css"
+      ],
+      "js": [
+        "content.js"
+      ],
       "run_at": "document_start"
     }
   ],
@@ -23,6 +31,14 @@
     "default_title": "Your Browser Assistant",
     "default_popup": "/index.html"
   },
-  "permissions": ["activeTab", "scripting", "storage", "tabs"],
-  "host_permissions": ["https://aniwatch.to/*", "https://zoro.to/*"]
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://aniwatch.to/*",
+    "https://zoro.to/*"
+  ]
 }
