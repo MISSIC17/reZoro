@@ -401,3 +401,30 @@ ul.az-list li.active a {
   .jw-timesegment-progress {
   background-color: #f2f2f2 !important;
 }
+.aa-title>.user-name.is-level-a{
+  color:var(--primaryZoro) !important;
+}
+.cn-owner>.user-name.is-level-a{
+  color:var(--primaryZoro) !important;
+}
+
+*>.highlight-text{
+  color:var(--primaryZoro) !important;
+}
+
+.ztag .zt-yellow {
+  color:var(--primaryZoro) !important;
+  }
+#wrapper > div:nth-child(7){
+  display:none;
+}
+#new-comment > div > div > div.swiper-wrapper > div > div > div.comment-inline > div.about > a{
+  color:#B0E3Af !important;
+}
+#top-comment > div > div > div.swiper-wrapper > div > div > div.comment-inline > div.about > a{
+  color:#B0E3Af !important;
+}
+div.is-head > div.is-pin{
+  background:var(--primaryZoro) !important;
+}
+#post-211064 > div.is-bottom > div.cn-owner > a
