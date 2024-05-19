@@ -1,9 +1,9 @@
 # <u>reZoro </u>
 ![logo](https://i.imgur.com/6uhWFUa.png)
 
-## A browser extension to undo the rebranding of zoro.to ➡ aniwatch.to
+## A browser extension to undo the rebranding of zoro.to ➡ aniwatch.to(currently aniwatchtv.to)
  
-#### The new brand colors and logo clearly are an eyesore. This extension changes some aspects like logo, images and colors of aniwatch.to website to make the site look like the old one. 
+#### The new brand colors and logo clearly are an eyesore. This extension changes some aspects like logo, images and colors of aniwatchtv.to website to make the site look like the old one. 
 
 <hr/>
 
@@ -31,4 +31,4 @@
  ```diff
 - [!IMPORTANT] 
 ```
-#### Make sure to tick ```Always allow on aniwatch.to``` in the extension settings after navigating to aniwatch.to website
+#### Make sure to tick ```Always allow on aniwatchtv.to``` in the extension settings after navigating to aniwatchtv.to website
